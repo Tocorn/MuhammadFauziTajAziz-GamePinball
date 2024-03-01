@@ -1,0 +1,255 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709284470563192, "dur":63, "ph":"X", "name": "EmitBuildStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284470524505, "dur":40286, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284470564810, "dur":93, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284470564939, "dur":360, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284470565449, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/level2.resS" }}
+,{ "pid":12345, "tid":0, "ts":1709284470566306, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709284470567019, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709284470568116, "dur":155, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709284470568375, "dur":392, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1709284470568800, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1709284470565321, "dur":4243, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284470569566, "dur":1619570, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284472189139, "dur":319, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284472189657, "dur":1620, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709284470565761, "dur":3883, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709284470569647, "dur":317, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709284470569964, "dur":1101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709284470579103, "dur":236, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1709284470592264, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1709284470594094, "dur":259631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1709284470919928, "dur":456756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471376731, "dur":47381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471424311, "dur":180078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471604420, "dur":42719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471647178, "dur":2432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471649640, "dur":41761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471691437, "dur":4818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471707191, "dur":141, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709284471696299, "dur":11058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471707429, "dur":34806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471742284, "dur":6920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709284471749248, "dur":64277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1709284471813538, "dur":375600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709284470565723, "dur":3895, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709284470569623, "dur":274, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709284470569898, "dur":1182, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709284470571123, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709284470592383, "dur":200823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1709284470793228, "dur":126408, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709284470919651, "dur":78, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709284471366581, "dur":116666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1709284471483286, "dur":163491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709284471646810, "dur":2341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709284471649192, "dur":42111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709284471691427, "dur":5174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709284471696675, "dur":11287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709284471707991, "dur":40231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709284471748247, "dur":65164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1709284471813437, "dur":373480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1709284472186944, "dur":2221, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709284470565631, "dur":3954, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709284470569590, "dur":1466, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709284470571683, "dur":313, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1709284470572002, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1709284470572092, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1709284470572361, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\PINBALL OF MINIMALISM\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284470572431, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\PINBALL OF MINIMALISM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284470572540, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\PINBALL OF MINIMALISM\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284470572757, "dur":325, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\PINBALL OF MINIMALISM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284470573084, "dur":410, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\PINBALL OF MINIMALISM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284470573494, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\PINBALL OF MINIMALISM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284470573588, "dur":332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\PINBALL OF MINIMALISM\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284470573972, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player39257fa5-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1709284470572001, "dur":2125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1709284470574400, "dur":55, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709284470574826, "dur":682600, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1709284471258307, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1709284471258306, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1709284471258429, "dur":538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1709284471366589, "dur":53694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471420354, "dur":3753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471424176, "dur":180556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471604777, "dur":43125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471647936, "dur":30843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471678831, "dur":14621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471707228, "dur":193, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709284471693511, "dur":13920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471707504, "dur":40589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709284471748162, "dur":65268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1709284471813452, "dur":373470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1709284472186953, "dur":2181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709284470565671, "dur":3926, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709284470569601, "dur":279, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709284470569881, "dur":1252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709284470571158, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"G:\\Unity\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709284470571134, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709284470594015, "dur":200363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1709284470920941, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709284470794405, "dur":126627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM.exe" }}
+,{ "pid":12345, "tid":4, "ts":1709284471366479, "dur":51985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471423307, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709284471418492, "dur":4964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471423539, "dur":180841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471604409, "dur":43135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471647571, "dur":3076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471650692, "dur":41638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471692415, "dur":4471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471696913, "dur":10679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471707616, "dur":40414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709284471748094, "dur":65306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1709284471813425, "dur":375622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1709284470565715, "dur":3892, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709284470569612, "dur":255, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709284470569868, "dur":1210, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709284470571117, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709284470592214, "dur":195728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1709284470787996, "dur":131620, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709284470919742, "dur":528149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1709284471447919, "dur":198785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709284471646780, "dur":2807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709284471649645, "dur":41731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709284471691409, "dur":2957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709284471707119, "dur":171, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709284471694400, "dur":12902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709284471707353, "dur":35086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709284471742507, "dur":404399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709284472146923, "dur":42205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284470565751, "dur":3878, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284470569635, "dur":259, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284470569894, "dur":1191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284470571126, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284470592355, "dur":200543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1709284470792922, "dur":126689, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284470919647, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284470919773, "dur":448028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1709284471367838, "dur":54325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471422302, "dur":143672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471566002, "dur":80580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471646613, "dur":2544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471649194, "dur":30141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471679367, "dur":13802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471706305, "dur":654, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284471693198, "dur":13787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471707116, "dur":163, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709284471707286, "dur":1495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471708850, "dur":40357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709284471749231, "dur":436213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1709284472185477, "dur":3652, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709284470565794, "dur":3863, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709284470569662, "dur":313, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709284470569976, "dur":1107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709284470571112, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709284470592367, "dur":166883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1709284470759428, "dur":460634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1709284471366530, "dur":54234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471423326, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709284471420860, "dur":2663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471423586, "dur":180761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471604385, "dur":43066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471647486, "dur":2703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471650220, "dur":41075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471691327, "dur":3097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471707198, "dur":195, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709284471694473, "dur":12932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471707471, "dur":35080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709284471742575, "dur":69492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1709284471812120, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1709284471813649, "dur":375483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709284470565834, "dur":3832, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709284470569669, "dur":260, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709284470569929, "dur":1167, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709284470571120, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709284470592210, "dur":200404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1709284470792662, "dur":126959, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709284470919761, "dur":448017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709284471367821, "dur":56475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709284471424331, "dur":221878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709284471646263, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709284471647844, "dur":30710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709284471678639, "dur":13802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709284471706360, "dur":896, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709284471692470, "dur":14800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709284471707315, "dur":35131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709284471742491, "dur":69567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1709284471812120, "dur":374205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1709284472186424, "dur":2716, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709284470565863, "dur":3817, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709284470569685, "dur":185, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709284470569870, "dur":1255, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709284470571126, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1709284470727549, "dur":89531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1709284470919837, "dur":404612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1709284471366571, "dur":54141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471420738, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471421035, "dur":277, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709284471421322, "dur":144630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471565980, "dur":81000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471647008, "dur":2421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471649454, "dur":41160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471690661, "dur":2656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471693409, "dur":13999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471707448, "dur":192, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709284471707652, "dur":40385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709284471748077, "dur":65084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1709284471813191, "dur":373048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/level0" }}
+,{ "pid":12345, "tid":9, "ts":1709284472186272, "dur":2867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284470565921, "dur":3768, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284470569690, "dur":1378, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284470571111, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284470592378, "dur":56532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1709284470648939, "dur":78173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284470727141, "dur":105, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284470727249, "dur":66347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1709284470793794, "dur":168313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471366486, "dur":58127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471424649, "dur":221949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471646651, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471648072, "dur":30928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471679082, "dur":14032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471706416, "dur":856, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284471693205, "dur":14079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471707347, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471708915, "dur":39988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709284471748972, "dur":63732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1709284472186020, "dur":179, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709284471812747, "dur":373487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/level1" }}
+,{ "pid":12345, "tid":10, "ts":1709284472186277, "dur":2864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709284470565950, "dur":3751, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709284470569701, "dur":1371, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709284470592134, "dur":179029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1709284471366845, "dur":105, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709284470771327, "dur":595650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1709284471367029, "dur":56440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471423548, "dur":142951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471566525, "dur":80638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471647190, "dur":2574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471649798, "dur":42087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471691915, "dur":4733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471696677, "dur":10895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471707623, "dur":35073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709284471742724, "dur":70016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1709284471812800, "dur":373633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1709284472186454, "dur":2704, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709284470565988, "dur":3760, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709284470569748, "dur":1318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709284470571111, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709284470571788, "dur":60846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1709284470632665, "dur":94446, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709284470727180, "dur":66742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1709284470793941, "dur":125749, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709284470919784, "dur":267339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471366512, "dur":51789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471418364, "dur":5177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471423634, "dur":180812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471604477, "dur":43005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471647512, "dur":2690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471650247, "dur":41630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471691912, "dur":4677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471696634, "dur":11777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471708438, "dur":39660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709284471748148, "dur":437292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Personal Unity Project/PINBALL OF MINIMALISM/PINBALL OF MINIMALISM_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1709284472185492, "dur":3676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709284472194807, "dur":1093, "ph":"X", "name": "ProfilerWriteOutput" }
+,
